@@ -1,0 +1,129 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An answer to a lying pamphlet, entituled, The case of Thomas Price, Esq.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1690</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 7 KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B08375</idno>
+            <idno type="STC">Wing A3321A</idno>
+            <idno type="STC">ESTC R172333</idno>
+            <idno type="EEBO-CITATION">64550872</idno>
+            <idno type="OCLC">ocm 64550872</idno>
+            <idno type="VID">184328</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B08375)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 184328)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2858:6)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An answer to a lying pamphlet, entituled, The case of Thomas Price, Esq.</title>
+                  <author>England and Wales. Parliament.</author>
+               </titleStmt>
+               <extent>1 sheet ([2] p.).   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1690]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Place and date of publication suggested by Wing (2nd ed.).</note>
+                  <note>Reproduction of original in: British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Price, Thomas, fl. 1690 --  Trial, litigation, etc.</term>
+               <term>Possessory interests in land --  England --  Early works to 1800.</term>
+               <term>Broadsides --  England --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-08</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2012-08</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:184328:1" rendition="simple:additions"/>
+            <head>An ANSWER to a Lying Pamphlet, Entituled, <hi>The CASE of</hi> THOMAS PRICE <hi>Eſq;</hi>
+            </head>
+            <p>THE Rectory of <hi>Llanywllyn</hi> in the Dioceſs of St. <hi>Aſaph</hi> did never belong to any Mo<g ref="char:EOLhyphen"/>naſtery, but was a Preſentative Living with Cure of Souls: And Dr. <hi>Ellis Price,</hi> Great Grandfather of the ſaid <hi>Thomas Price,</hi> was Rector thereof, both before, and at the time of Diſſolution of Monaſteries, and for many Years after, in all for above Sixty Years. Towards the end of which time,<note place="margin">Decem. <hi>22.33</hi> Eliz.</note> he got the ſaid Rectory put into that famous Patent of <hi>Tipper</hi> and <hi>Daw,</hi> by whom, being but Truſtees, it was Aſſigned to his Son <hi>Thomas Price</hi> and his Heirs; who by Colluſion with them that ſhould have done the Church Right in this Matter, turn'd this Rectory into an Impropriation, and in ſtead of 100 <hi>l. per Annum,</hi> (as the Complainant ſaith) left it only 6 <hi>l. per Annum</hi> as a Stipend for the ſerving of that Cure of Souls.</p>
+            <p>The firſt Biſhop after the King's Reſtauration offered this Rectory to ſeveral Clerks, but none would be at the Charge to Sue for it. But the Account that he left of the Churches Title in Writing, put the preſent Biſhop upon a farther ſearch: By which, finding that it was undoubtedly a Preſentative Living, he gave Inſtitution to <hi>Robert Wynne</hi> the preſent In<g ref="char:EOLhyphen"/>cumbent; who came to a Tryal with <hi>Peter Price</hi> the pretended Impropriator, at <hi>Salop</hi> Aſſi<g ref="char:EOLhyphen"/>zes in Summer 1683. Thence, by conſent of both Parties, the Cauſe was ordered to be Tryed at the Exchequer-Bar; and the Iſſue to be, Whether the Incumbent had good Right to the Rectory of <hi>Llanywllyn?</hi> Accordingly it was Tryed in <hi>Eaſter-Term</hi> following before all the Barons of the Exchequer; and after a Tryal of Five Hours, it was given for the Incum<g ref="char:EOLhyphen"/>bent, by a Jury of Gentlemen, whoſe Names are Printed here for the Honour of their Vir<g ref="char:EOLhyphen"/>dict: Sir <hi>Edward Smith</hi> of <hi>Holburn</hi> Baronet, Sir <hi>William Turner</hi> of <hi>Bromley</hi> Knight, Sir <hi>John Elwayes</hi> of <hi>Fulham</hi> Knight, <hi>Jonas Morley</hi> of <hi>Hamerſmith</hi> Eſq; <hi>Edward Shaw</hi> of <hi>Covent Garden</hi> Eſq; <hi>Samuel Rouſe</hi> of <hi>Holburn</hi> Eſq; <hi>Richard Gower</hi> of <hi>Highgate</hi> Eſq; <hi>Jeffrey Nightingale</hi> of <hi>Cripplegate</hi> Eſq; <hi>Thomas Harriot</hi> of <hi>Iſlington</hi> Eſq; <hi>John Shales</hi> of <hi>Fulham</hi> Eſq; <hi>Thomas Ernsby</hi> of <hi>Hamerſmith</hi> Eſq; and <hi>Walter Moyle</hi> of <hi>Ealing</hi> Eſq;</p>
+            <p>After this Tryal at Bar, in <hi>Trinity-Term</hi> following, Mr. <hi>Thomas Price</hi> moved the Court on his Fathers behalf for a new Tryal; which was deny'd him, by reaſon he could produce no other Evidence than what had formerly been produced at the Tryal at Bar.</p>
+            <p>But whereas in the Order of the Aſſizes at <hi>Salop</hi> is was not ſaid that the Poſſeſſion ſhould follow the ſucceſs of this Tryal, therefore the Incumbent was forced to bring his Cauſe to Tryal at another Aſſizes held at <hi>Salop</hi> in Summer 1684, and there he obtained a Verdict for the Poſſeſſion.</p>
+            <p>After theſe Tryals and Verdicts, the Incumbent being now in Poſſeſſion,<note place="margin">85 <hi>May</hi> 1.</note> did for a valuable Conſideration Demiſe this Rectory to <hi>Edward Vaughan</hi> Eſq; for Three Years, if he continued ſo long Rector, reſerving an Annual Rent to himſelf;<note place="margin">88 <hi>May</hi> 7.</note> and afterwards he renew'd the ſaid Leaſe for Three Years longer, which Term is not yet expired.</p>
+            <p>About Three Years ago the ſaid <hi>Peter Price</hi> brought his Declaration of Ejectment againſt the Tenants in Poſſeſſion of this Rectory, to be Tryed in the County of <hi>Merioneth.</hi> And at the Aſſizes, the Biſhop being Patron, and Mr. <hi>Vaughan</hi> being Leſſee of the ſaid Rectory,<note place="margin">88 <hi>Sep.</hi> 26.</note> cau<g ref="char:EOLhyphen"/>ſed a Defence to be made, and were ready to Try the Cauſe; but Mr. <hi>Price</hi> finding the beſt Gentlemen in that County were returned on the Jury, and for no other Cauſe, wav'd the Tryal.</p>
+            <p>After this he lay quiet till <hi>June</hi> laſt, then finding that by Reaſon of the Adjournments of Parliament, Mr. <hi>Vaughan</hi> could not attend, and much leſs the Biſhop, with whom his Secre<g ref="char:EOLhyphen"/>tary who attended the Tryal at Bar, and who only underſtood the Records, was then at <hi>London,</hi> he took this Occaſion to give Notice of a Tryal at the Aſſizes to be held in <hi>September</hi> laſt. There Council appeared for the Biſhop and Mr. <hi>Vaughan,</hi> and Pleaded their Priviledge of Parliament; and Mr. <hi>Vaughan</hi>'s Leaſe was publickly read in Court, and an Affidavit was Filed, That the Biſhop being in <hi>London,</hi> and his Secretary attending him there, who had been employ'd in all the Tryal, had the Papers in his Cuſtody, they could not poſſibly Try it. But their Council offered to wave their Priviledge, and to Try it next Aſſizes by a Jury of Gentlemen of the County, who are only fit to Try ſuch a Cauſe. But Mr. <hi>Thomas Price,</hi> and his Attorney Mr. <hi>Henry Moſtyn</hi> Rejected that Offer, and without Regard to Priviledge of Parliament, proceeded to Tryal, and had a Verdict, no Defence being made. Thereupon Mr. <hi>Richard Green</hi> (tho' being warned of the Breach of Priviledge) granted a Writ for Poſ<g ref="char:EOLhyphen"/>ſeſſion; and purſuant to this Writ, on the 7th of <hi>October</hi> laſt, <hi>William Wynn</hi> the Under-Sheriff, turn'd out Mr. <hi>Vaughan</hi>'s Tenants, and put <hi>Edward Price</hi> in Poſſeſſion of the Houſes and Gleab belonging to the ſaid Rectory: All which Proceedings (with humble Submiſſion) are a Breach of the Priviledges of the Honourable Houſe of Commons.</p>
+            <p>This is the true State of the Caſe, whereof divers material things are induſtriouſly concealed in that Pamphlet, which has been lately ſpread about the Coffee-Houſes and other Places. There are alſo many Things ſaid, which are no more true than they are pertinent to the pur<g ref="char:EOLhyphen"/>poſe: But the deſign of thoſe Lyes is only to Defame them that dare truſt the World with their Good Names, preſuming they are ſo well known, that they need not Anſwer ſuch Slanders and Calumnies.</p>
+            <pb facs="tcp:184328:2" rendition="simple:additions"/>
+         </div>
+      </body>
+   </text>
+</TEI>
